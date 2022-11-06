@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Ryzen 3 3200G",
+        "image": "/images/ryzen3.jpg",
+        "id": "sticker_logo",
+        "description": "Upgrade your gaming performance with these processors \n 4-cores with 4 threads @ 3.6 ghz - 4.0 ghz",
+        "price": "120.00"
+      },
+    {
+        "title": "Ryzen 5 5600G",
+        "image": "/images/ryzen5.jpg",
+        "id": "sticker_logo_pack",
+        "description": "Get a whole new level experience of gaming through these processors! \n 6-cores with 12 threads @ 3.9 ghz - 4.4 ghz",
+        "price": "200.00"
+      },
+      {
+          "title": "Ryzen 7 5700G",
+          "image": "/images/ryzen7.jfif",
+          "id": "sticker_logo_pack",
+          "description": "Be an enthusiast through these processors! \n 8-cores with 16 threads @ 3.8 ghz - 4.6 ghz",
+          "price": "300.00"
+        },
+        {
+            "title": "Ryzen 9 7900X",
+            "image": "/images/ryzen9.jfif",
+            "id": "sticker_logo_pack",
+            "description": "Get yourself a high end computer through these processors! \n 12-cores with 24 threads @ 4.7 ghz - 5.6 ghz",
+            "price": "400.00"
+          }
+]
